@@ -26,7 +26,7 @@ Current implementation of the script recalculates Story Points every 2 seconds.
 ### Installation
 
 1. Install [Violentmonkey](https://violentmonkey.github.io/) (open source) or [Tampermonkey](http://www.tampermonkey.net/) (closed source) plugin for your favorite web browser.
-2. Navigate to the [GitHub Project Story Points User Script](https://raw.githubusercontent.com/pkosiec/github-projects-story-points/master/script.user.js) location. The script format is detected automatically and Tampermonkey will ask to install it.
+2. Navigate to the [GitHub Project Story Points User Script](https://raw.githubusercontent.com/Sawthis/github-projects-story-points/master/script.user.js) location. The script format is detected automatically and Tampermonkey will ask to install it.
 3. The userscript manager will watch the script location and it will update the script automatically once new version is released.
 
 ### Usage
