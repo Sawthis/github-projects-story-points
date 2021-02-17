@@ -19,7 +19,7 @@
    */
 
   const refreshInterval = 2000;
-  const highlightNotEstimatedCards = true;
+  const highlightNotEstimatedCards = false;
   const showTotalBoardStoryPoints = true;
 
   // the column cards will be excluded from validation and counting Story Points:
